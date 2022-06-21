@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+	<head>
+		<title>About</title>
+		<link href="style.css" rel="stylesheet" type="text/css">
+		<meta name="viewport" content="width=device-width, intial-scale=1">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@1,300&display=swap" rel="stylesheet">
+	<nav>	
+				<h1>About Us</h1>
+
+		<ul>
+			<li>
+				<a href="index.html">Home</a>
+			</li>
+			<li>
+				<a href="about.html">About Us</a>
+			</li>
+			<li>
+				<a href="contact.html">Contact</a>
+			</li>
+			
+	  </ul>
+		</nav>
+	</head>
+	
+	
+	<body>
+		<main>
+	<article class="item">	
+			<h1>WHo are we?</h1>
+			<h2>What we do</h2>
+			<p>Welcome to My Awesome Company.</p>
+			<p>We do all the amazing things that everybody wants.</p>
+			<p>We can do some amazing things for you too.</p>
+		<p>I like Car</p> <p>Toyota AE-86 Drifiting <a href="https://www.youtube.com/watch?v=hcPZxyZRxl0">here</a></p>
+		<a href="https://www.youtube.com/watch?v=hcPZxyZRxl0"><img src="h.jpeg" alt="photograph of AE86"></a>
+			</article>
+		
+		<article class="item">
+		
+			<h2>Some of our clients</h2>
+			<ul>
+				<li>Youtube</li>
+				<li>Twitch</li>
+				<li>Tik Tok</li>
+			</ul>
+		</article>	
+			
+	<article class="item">		
+		<h2>Our favourite quote</h2>
+<blockquote>Curiosity is the wick in the candle of learning - William Arthur Ware</blockquote>
+			</article>
+						
+		</main>
+		<footer>
+		<p class="whitetext">&copy; Copyright 2022. My Awesome Company</p>
+		</footer>
+
+	</body>
+
+</html>
